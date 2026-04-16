@@ -38,17 +38,6 @@ Currently finalizing applications to M.Sc. AI/ML programs at German public unive
 
 ---
 
-## 📌 Featured Projects
-*(Links will be updated as I upload the repositories!)*
-
-| Project | Description | Tech |
-|---------|-------------|------|
-| [Malaria Detection](#) | Hybrid CNN for cell classification | TF, OpenCV |
-| [Inventory Forecasting](#) | ML pipeline for demand prediction | XGBoost, RF |
-| [DL Implementations](#) | Core algorithms from scratch | NumPy, TF |
-
----
-
 ## 📫 Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nitish-kumar-reddy-yerabapu-6690aa21a)
