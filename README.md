@@ -25,14 +25,17 @@ I'm currently applying to **M.Sc. AI/ML programs at German public universities (
 
 ## 🚀 Featured Projects
 
-### 🧬 Malaria Cell Detection — Hybrid CNN Architecture
-> Final Year B.Tech Thesis Project
+### 🧬 [Malaria Cell Detection — Hybrid CNN-BiLSTM](https://github.com/nitish-reddy25/malaria-detection)
+> Final Year B.Tech Thesis · MITS, Andhra Pradesh · 2024–2025
 
-Developed a hybrid convolutional neural network combining feature extraction from multiple backbone architectures to classify parasitized vs. uninfected blood cell images. Focused on maximizing sensitivity (recall) to minimize missed diagnoses.
+Designed and benchmarked four deep learning architectures to classify parasitized vs. uninfected blood smear cell images. The best-performing model — a hybrid CNN-BiLSTM — treats spatial feature maps as sequences, allowing the model to capture cell-wide morphological patterns that pure CNNs miss.
 
-**Tech:** TensorFlow · Keras · OpenCV · scikit-learn · Matplotlib  
-**Dataset:** NIH Malaria Cell Images Dataset (~27,500 images)
+- 📊 **96.20% test accuracy** on 27,558-image NIH dataset
+- 🏗️ Benchmarked: Custom CNN · VGG19 · ResNet50 · Hybrid CNN-BiLSTM
+- 🌐 Deployed as a Flask web app with real-time inference
+- 🎯 Optimized for recall — minimizing false negatives in medical diagnosis
 
+**Tech:** TensorFlow · Keras · OpenCV · Flask · scikit-learn · NumPy
 ---
 
 ### 📦 Inventory Demand Forecasting — ML Pipeline
