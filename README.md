@@ -111,9 +111,6 @@ Madanapalle Institute of Technology & Science (MITS), Andhra Pradesh · 2021–2
 ## 🎯 Currently
 
 - 📝 Finalizing M.Sc. AI/ML applications for German universities (WS 2026)
-  - **Reach:** TU Darmstadt (M.Sc. AI & ML), RPTU Kaiserslautern
-  - **Target:** Deggendorf (M.Sc. AI & Data Science), TU Ilmenau
-  - **Applied:** Hildesheim, Koblenz
 - 🛠 Uploading and documenting project repositories
 - 📖 Studying advanced ML theory — transformers, probabilistic ML
 - 💡 Exploring: AI × Finance · AI Product Strategy · Applied NLP
