@@ -25,26 +25,34 @@ I'm currently applying to **M.Sc. AI/ML programs at German public universities (
 
 ## 🚀 Featured Projects
 
-### 🧬 [Malaria Cell Detection — Hybrid CNN-BiLSTM](https://github.com/nitish-reddy25/malaria-detection)
+### 🧬 [Malaria Cell Detection — Hybrid Deep Learning](https://github.com/nitish-reddy25/malaria-detection)
 > Final Year B.Tech Thesis · MITS, Andhra Pradesh · 2024–2025
 
-Designed and benchmarked four deep learning architectures to classify parasitized vs. uninfected blood smear cell images. The best-performing model — a hybrid CNN-BiLSTM — treats spatial feature maps as sequences, allowing the model to capture cell-wide morphological patterns that pure CNNs miss.
+Designed and benchmarked four deep learning architectures to classify parasitized vs. uninfected blood smear cell images, exploring hybrid CNN-BiLSTM as an architectural contribution that treats spatial feature maps as sequences to capture cell-wide morphological patterns.
 
-- 📊 **96.20% test accuracy** on 27,558-image NIH dataset
-- 🏗️ Benchmarked: Custom CNN · VGG19 · ResNet50 · Hybrid CNN-BiLSTM
+- 📊 **Custom CNN: 96.84% test accuracy / 0.9923 AUC-ROC** (best of four)
+- 🔬 **Hybrid CNN-BiLSTM: 96.41%** — research contribution, competitive with the simpler model
+- 🏗️ Benchmarked: Custom CNN · Hybrid CNN-BiLSTM · VGG19 (92.71%) · ResNet50
 - 🌐 Deployed as a Flask web app with real-time inference
 - 🎯 Optimized for recall — minimizing false negatives in medical diagnosis
 
 **Tech:** TensorFlow · Keras · OpenCV · Flask · scikit-learn · NumPy
+
 ---
 
-### 📦 Inventory Demand Forecasting — ML Pipeline
-> Internship Project
+### 📦 [Retail Demand Forecasting — XGBoost Pipeline](https://github.com/nitish-reddy25/retail-demand-forecasting)
+> Internship Project Demonstration · Raybit Solutions · 2025
 
-End-to-end machine learning pipeline for predicting product demand and optimizing inventory levels. Involved feature engineering on time-series sales data and comparing classical ML models for production deployment.
+Public demonstration of the methodology from my ML internship project — *"Predicting Inventory Needs Using Machine Learning"* — rebuilt on Kaggle's Store-Item Demand Forecasting dataset since the internship's operational data couldn't be shared publicly.
 
-**Tech:** Python · XGBoost · Random Forest · Pandas · Scikit-learn  
-**Impact:** Reduced forecast error on held-out test set, enabling leaner stock management decisions
+End-to-end pipeline with leakage-safe time-series feature engineering, time-aware evaluation, and honest model comparison.
+
+- 📊 **Val MAE 6.07 / R² 0.929** on a strictly held-out 2017 test year (891K rows total)
+- ⚙️ **18 engineered features** from 4 raw columns — lag, rolling, cyclical encoding
+- 🔬 **Time-aware split** (train 2013-2016, val 2017) mirrors real deployment, not random shuffling
+- 🎯 **Senior-level finding:** feature engineering carried ~80% of predictive importance — model choice was secondary
+
+**Tech:** Python · XGBoost · Pandas · Scikit-learn · Matplotlib
 
 ---
 
@@ -83,7 +91,7 @@ Implementing core deep learning building blocks from first principles — forwar
 ## 📚 Education & Certifications
 
 **🎓 B.Tech — Computer Science & Engineering**  
-Madanapalle Institute of Technology & Science (MITS), Andhra Pradesh · 2021–2025
+Madanapalle Institute of Technology & Science (MITS), Andhra Pradesh · 2021–2026
 
 | Certification | Provider | Focus |
 |---|---|---|
@@ -101,8 +109,8 @@ Madanapalle Institute of Technology & Science (MITS), Andhra Pradesh · 2021–2
 
 <div align="center">
 
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=nitish-reddy25&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e&include_all_commits=true&count_private=true" />
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nitish-reddy25&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e" />
+[![Stats](https://github-readme-stats.vercel.app/api?username=nitish-reddy25&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true)](https://github.com/nitish-reddy25)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nitish-reddy25&layout=compact&theme=github_dark&hide_border=true)](https://github.com/nitish-reddy25)
 
 </div>
 
