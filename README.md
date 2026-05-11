@@ -104,17 +104,6 @@ Madanapalle Institute of Technology & Science (MITS), Andhra Pradesh · 2021–2
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-[![Stats](https://github-readme-stats.vercel.app/api?username=nitish-reddy25&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true)](https://github.com/nitish-reddy25)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nitish-reddy25&layout=compact&theme=github_dark&hide_border=true)](https://github.com/nitish-reddy25)
-
-</div>
-
----
-
 ## 🎯 Currently
 
 - 📝 Finalizing M.Sc. AI/ML applications for German universities (WS 2026)
