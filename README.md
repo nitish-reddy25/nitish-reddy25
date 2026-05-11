@@ -100,7 +100,6 @@ Madanapalle Institute of Technology & Science (MITS), Andhra Pradesh · 2021–2
 | Mathematics for ML: Linear Algebra & Multivariate Calculus | Imperial College London | Mathematical Foundations |
 | Business Analytics & Text Mining with Python | IIT Roorkee (NPTEL) | NLP, Business Applications |
 | Python for Data Science, AI & Development | IBM | Core Python, DS Libraries |
-| Structuring ML Projects | DeepLearning.AI | ML Strategy & Deployment |
 | Google Data Analytics | Google | Data Pipeline & Analytics |
 
 ---
